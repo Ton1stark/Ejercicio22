@@ -4,15 +4,9 @@
  */
 package ejerciciop22;
 
-/**
- *
- * @author Dell
- */
 public class EjercicioP22 {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
        VentanaPrincipal ventana = new VentanaPrincipal();
        ventana.setVisible(true);
